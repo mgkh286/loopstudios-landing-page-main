@@ -44,7 +44,6 @@ nav{
     justify-content: space-between;
     align-items: center;
     font-family: 'Josefin Sans', sans-serif;
-  
 }
 
 .nav-menu .nav-menu-item a{
@@ -74,6 +73,7 @@ header h1{
 @media (width > 1000px) {
 
     header{
+        height: 90vh;
         background-image: url('./images/desktop/image-hero.jpg');
     }
 
