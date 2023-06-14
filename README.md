@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/loopstudioslandingpagemain-using-html-css-js-U0_yF1KaY2)
-- Live Site URL: [Add live site URL here](https://mgkh286.github.io/loopstudios-landing-page-main/)
+- Solution URL: [frontendmentor](https://www.frontendmentor.io/solutions/loopstudioslandingpagemain-using-html-css-js-U0_yF1KaY2)
+- Live Site URL: [github](https://mgkh286.github.io/loopstudios-landing-page-main/)
 
 ## My process
 
