@@ -43,6 +43,20 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    font-family: 'Josefin Sans', sans-serif;
+  
+}
+
+.nav-menu .nav-menu-item a{
+    font-size: 1rem;
+    color: var(--White);
+    font-weight: 600;
+}
+
+nav .nav-menu {
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
 }
 
 header h1{
